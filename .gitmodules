@@ -1,0 +1,6 @@
+[submodule "modules/shairport-sync"]
+	path = modules/shairport-sync
+	url = git@github.com:mikebrady/shairport-sync.git
+[submodule "modules/snapcast"]
+	path = modules/snapcast
+	url = git@github.com:badaix/snapcast.git
