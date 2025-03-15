@@ -9,7 +9,7 @@ This project creates a Raspberry Pi-based audio server that:
 
 ## Audio Pipeline
 
-![architecture](/assets/images/architecture.png)
+![architecture](/assets/architecture.png)
 
 ## System Components
 
