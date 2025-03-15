@@ -1,0 +1,11 @@
+#secrets
+.env
+
+#dependencies
+node_modules
+
+#build
+dist
+
+#logs
+logs
